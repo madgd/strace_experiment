@@ -6,7 +6,7 @@
 #
 #	This is for the strace experiment:
 #	1).run this script on the device in root
-#	2).manually run the apps one by one, kill the running one before start the nest
+#	2).manually run the apps one by one, kill the running one before start the next
 #	3).for each app, do some normal operation for a same time
 #	4).system call log files will be generated
 # History:
